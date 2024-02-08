@@ -1,5 +1,5 @@
 ## Abstract
-  - This report investigates the intersection of text and
+  - This project investigates the intersection of text and
   image generation through the evaluation of two
   OpenAI models for the purpose of generating
   children’s fairy tales and corresponding images. The
